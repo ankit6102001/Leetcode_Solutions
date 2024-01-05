@@ -1,3 +1,3 @@
-# DSA Practice Repository
+# Leetode Solution Repository
 
-Welcome to DSA Practice Repository !!
+Welcome to Leetcode Solution Repository !!
